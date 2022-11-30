@@ -14,6 +14,8 @@ namespace ConsoleApp1
         public string  recapt { get; set; }
         public string Chart { get; set; }
 
+        //加注解
+
         //這裡是用線上編輯更新的
         
 //這裡用線上編輯器寫的內容
